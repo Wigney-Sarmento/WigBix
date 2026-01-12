@@ -12,10 +12,9 @@ Este utilitário foi desenvolvido para resolver o trabalho repetitivo de criaç�
 Por ser um programa compilado (`.exe`), você não precisa instalar Python ou qualquer outra dependência. 
 
 ### Passo a Passo:
-1. Vá até a seção **[Releases](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases)** deste repositório.
-2. Baixe o arquivo `ZabbixTemplateGenerator.exe`.
-3. Execute o programa no seu Windows.
-4. Selecione o arquivo JSON de origem.
-5. Escolha o modo de geração (**Estático** ou **LLD**).
-6. Salve o arquivo gerado (`.yaml`).
-7. No Zabbix, vá em **Data Collection > Templates > Import** e selecione o arquivo gerado pelo programa.
+1. Baixe o arquivo exe **[EXE](https://github.com/Wigney-Sarmento/WigBix/archive/refs/heads/main.zip)** deste repositório.
+2. Execute o programa no seu Windows.
+3. Selecione o arquivo JSON de origem.
+4. Escolha o modo de geração (**Estático** ou **LLD**).
+5. Salve o arquivo gerado (`.yaml`).
+6. No Zabbix, vá em **Data Collection > Templates > Import** e selecione o arquivo gerado pelo programa.
